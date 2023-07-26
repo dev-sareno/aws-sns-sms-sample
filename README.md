@@ -1,4 +1,4 @@
-# erpNext SMS Backend
+# aws-sns-sms-sample
 Sample Python script for sending SNS SMS using AWS SDK (boto3).
 
 ## Python
