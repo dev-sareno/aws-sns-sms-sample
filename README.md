@@ -1,5 +1,5 @@
 # erpNext SMS Backend
-A backend that erpNext ([https://erp.lanex.au/](https://erp.lanex.au/)) to use for sending SMS.
+Sample Python script for sending SNS SMS using AWS SDK (boto3).
 
 ## Python
 Requires Python v3.9+
